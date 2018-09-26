@@ -1,4 +1,4 @@
-To view my website for this assignment, please go to https://lcalso-hw-13-plotly.herokuapp.com/
+Please go to https://lcalso-hw-13-plotly.herokuapp.com/ to view my interactive dashboard for this assignment.
 
 # Belly Button Biodiversity
 
