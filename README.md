@@ -1,3 +1,5 @@
+To view my website for this assignment, please go to https://lcalso-hw-13-plotly.herokuapp.com/
+
 # Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
